@@ -17,7 +17,10 @@ public class ProjetWebSession {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("projetwebsession.ProjetWebSession.main()");
+        System.out.println("Salut de Roman");
+        
         System.out.println("projetwebsession.ProjetWebSession.main()-2");
+        
     }
     
 }
